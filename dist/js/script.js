@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2ef7263c49e34bf20f7eec6c038244e0c319c865
 // Navbar Fixed
 window.onscroll = function () {
   const header = document.querySelector("header");
